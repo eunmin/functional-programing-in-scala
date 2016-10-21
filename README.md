@@ -1,14 +1,9 @@
 # functional-programing-in-scala
 
-A Clojure library designed to ... well, that part is up to you.
+스칼라로 배우는 함수형 프로그래밍 문제 풀기
 
 ## Usage
 
-FIXME
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+```
+lein test
+```
